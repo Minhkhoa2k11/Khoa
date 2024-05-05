@@ -1,0 +1,102 @@
+[
+  {
+    "id": "note001",
+    "title": "Chuyến du lịch Bali",
+    "content": "Trải nghiệm tuyệt vời ở Bali với bãi biển trắng, núi rừng xanh mát và văn hóa độc đáo. Điều tuyệt vời nhất là tham gia lễ hội truyền thống tục cúng để khám phá văn hóa địa phương.",
+    "date": "2024-03-15",
+    "place": "Bali, Indonesia",
+    "rating": 4.5,
+    "labels": "biển, lễ hội, văn hóa",
+    "image_path": "image/note001.jpg"
+  },
+  {
+    "id": "note002",
+    "title": "Hành trình đến Tokyo",
+    "content": "Tokyo là một thành phố sôi động và hiện đại. Tôi thích khám phá đường phố, thưởng thức ẩm thực đa dạng và tham quan các điểm tham quan nổi tiếng như Tháp Tokyo và Cung điện Hoàng gia.",
+    "date": "2024-02-28",
+    "place": "Tokyo, Nhật Bản",
+    "rating": 5,
+    "labels": "thành phố, ẩm thực, điểm tham quan",
+    "image_path": "image/note002.jpg"
+  },
+  {
+    "id": "note003",
+    "title": "Kỳ nghỉ tại Maldives",
+    "content": "Maldives là một thiên đường nghỉ dưỡng với bãi biển tuyệt đẹp và nước biển trong xanh. Tôi đã tham gia lặn biển và thấy rất nhiều san hô và cá đa dạng. Khách sạn tuyệt vời với dịch vụ chuyên nghiệp.",
+    "date": "2024-05-10",
+    "place": "Maldives",
+    "rating": 4,
+    "labels": "nghỉ dưỡng, biển, lặn biển",
+    "image_path": "image/note003.jpg"
+  },
+  {
+    "id": "note004",
+    "title": "Khám phá Paris",
+    "content": "Paris là thủ đô của Pháp, nổi tiếng với kiến ​​trúc độc đáo, nghệ thuật và văn hóa phong phú. Tôi đã thăm tháp Eiffel, Louvre và thưởng thức ẩm thực Pháp tuyệt vời.",
+    "date": "2024-04-02",
+    "place": "Paris, Pháp",
+    "rating": 4.8,
+    "labels": "thành phố, kiến ​​trúc, nghệ thuật",
+    "image_path": "image/note004.jpg"
+  },
+  {
+    "id": "note005",
+    "title": "Cuộc phiêu lưu ở Cappadocia",
+    "content": "Cappadocia ở Thổ Nhĩ Kỳ nổi tiếng với địa điểm du lịch độc đáo và phong cảnh núi đá đỏ. Tôi đã tham gia chuyến bay bằng khinh khí cầu và khám phá các hang động và thảo nguyên đá.",
+    "date": "2024-06-20",
+    "place": "Cappadocia, Thổ Nhĩ Kỳ",
+    "rating": 4.7,
+    "labels": "phiêu lưu, địa điểm du lịch, khinh khí cầu",
+    "image_path": "image/note005.jpg"
+  },
+  {
+    "id": "note006",
+    "title": "Du lịch Sydney",
+    "content": "Sydney là thành phố lớn nhất của Australia, với nhiều điểm tham quan nổi tiếng như Cầu Sydney Harbour, Sydney Opera House và Bãi biển Bondi. Tôi đã tham gia một cuộc hành trình trên thuyền tham quan cảnh đẹp của thành phố.",
+    "date": "2024-07-12",
+    "place": "Sydney, Australia",
+    "rating": 4.6,
+    "labels": "thành phố, điểm tham quan, bãi biển",
+    "image_path": "image/note006.jpg"
+  },
+  {
+    "id": "note007",
+    "title": "Thám hiểm Amazon",
+    "content": "Amazon là một trong những khu rừng nhiệt đới lớn nhất và đa dạng nhất trên thế giới. Tôi đã tham gia một chuyến thám hiểm qua các con sông, khám phá động, và quan sát các loài động vật hoang dã.",
+    "date": "2024-08-05",
+    "place": "Amazon, Nam Mỹ",
+    "rating": 4.9,
+    "labels": "thám hiểm, rừng nhiệt đới, động vật hoang dã",
+    "image_path": "image/note007.jpg"
+  },
+  {
+    "id": "note008",
+    "title": "Khám phá Istanbul",
+    "content": "Istanbul, Thổ Nhĩ Kỳ, kết hợp giữa văn hóa Đông và Tây, với kiến ​​trúc độc đáo và di sản lịch sử. Tôi đã thăm Hagia Sophia, Cung điện Topkapi và thưởng thức ẩm thực địa phương.",
+    "date": "2024-09-18",
+    "place": "Istanbul, Thổ Nhĩ Kỳ",
+    "rating": 4.8,
+    "labels": "thành phố, kiến ​​trúc, di sản lịch sử",
+    "image_path": "image/note008.jpg"
+  },
+  {
+    "id": "note009",
+    "title": "Nghỉ dưỡng tại Hawaii",
+    "content": "Hawaii là một quần đảo tuyệt đẹp thuộc Hoa Kỳ, với bãi biển đẹp, đồng cỏ xanh mướt và núi lửa. Tôi đã tham gia lướt sóng trên biển và khám phá cảnh đẹp của Đại Tây Dương.",
+    "date": "2024-10-30",
+    "place": "Hawaii, Hoa Kỳ",
+    "rating": 4.7,
+    "labels": "nghỉ dưỡng, biển, núi lửa",
+    "image_path": "image/note009.jpg"
+  },
+  {
+    "id": "note010",
+    "title": "Thám hiểm Petra",
+    "content": "Petra là một thành phố cổ nằm ở Jordan, nổi tiếng với kiến ​​trúc đá đỏ độc đáo. Tôi đã dạo chơi qua các con đường hẹp và khám phá các ngôi đền, nhà thờ và hang động tại đây.",
+    "date": "2024-11-14",
+    "place": "Petra, Jordan",
+    "rating": 4.6,
+    "labels": "thành phố cổ, kiến ​​trúc, hang động",
+    "image_path": "image/note010.jpg"
+  }
+]

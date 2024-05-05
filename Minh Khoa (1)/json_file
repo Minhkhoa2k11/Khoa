@@ -1,0 +1,102 @@
+[
+    {
+        "id": "note001",
+        "title": "Chuy\u1ebfn du l\u1ecbch Bali",
+        "content": "Tr\u1ea3i nghi\u1ec7m tuy\u1ec7t v\u1eddi \u1edf Bali v\u1edbi b\u00e3i bi\u1ec3n tr\u1eafng, n\u00fai r\u1eebng xanh m\u00e1t v\u00e0 v\u0103n h\u00f3a \u0111\u1ed9c \u0111\u00e1o. \u0110i\u1ec1u tuy\u1ec7t v\u1eddi nh\u1ea5t l\u00e0 tham gia l\u1ec5 h\u1ed9i truy\u1ec1n th\u1ed1ng t\u1ee5c c\u00fang \u0111\u1ec3 kh\u00e1m ph\u00e1 v\u0103n h\u00f3a \u0111\u1ecba ph\u01b0\u01a1ng.",
+        "date": "2024-03-15",
+        "place": "Bali, Indonesia",
+        "rating": 4.7,
+        "labels": "bi\u1ec3n, l\u1ec5 h\u1ed9i, v\u0103n h\u00f3a",
+        "image": "C:/Users/dell/Downloads/Minh Khoa (1)/image/list.jpg"
+    },
+    {
+        "id": "note002",
+        "title": "H\u00e0nh tr\u00ecnh \u0111\u1ebfn Tokyo",
+        "content": "Tokyo l\u00e0 m\u1ed9t th\u00e0nh ph\u1ed1 s\u00f4i \u0111\u1ed9ng v\u00e0 hi\u1ec7n \u0111\u1ea1i. T\u00f4i th\u00edch kh\u00e1m ph\u00e1 \u0111\u01b0\u1eddng ph\u1ed1, th\u01b0\u1edfng th\u1ee9c \u1ea9m th\u1ef1c \u0111a d\u1ea1ng v\u00e0 tham quan c\u00e1c \u0111i\u1ec3m tham quan n\u1ed5i ti\u1ebfng nh\u01b0 Th\u00e1p Tokyo v\u00e0 Cung \u0111i\u1ec7n Ho\u00e0ng gia.",
+        "date": "2024-02-28",
+        "place": "Tokyo, Nh\u1eadt B\u1ea3n",
+        "rating": 5,
+        "labels": "th\u00e0nh ph\u1ed1, \u1ea9m th\u1ef1c, \u0111i\u1ec3m tham quan",
+        "image": "image/note002.jpg"
+    },
+    {
+        "id": "note003",
+        "title": "K\u1ef3 ngh\u1ec9 t\u1ea1i Maldives",
+        "content": "Maldives l\u00e0 m\u1ed9t thi\u00ean \u0111\u01b0\u1eddng ngh\u1ec9 d\u01b0\u1ee1ng v\u1edbi b\u00e3i bi\u1ec3n tuy\u1ec7t \u0111\u1eb9p v\u00e0 n\u01b0\u1edbc bi\u1ec3n trong xanh. T\u00f4i \u0111\u00e3 tham gia l\u1eb7n bi\u1ec3n v\u00e0 th\u1ea5y r\u1ea5t nhi\u1ec1u san h\u00f4 v\u00e0 c\u00e1 \u0111a d\u1ea1ng. Kh\u00e1ch s\u1ea1n tuy\u1ec7t v\u1eddi v\u1edbi d\u1ecbch v\u1ee5 chuy\u00ean nghi\u1ec7p.",
+        "date": "2024-05-10",
+        "place": "Maldives",
+        "rating": 4,
+        "labels": "ngh\u1ec9 d\u01b0\u1ee1ng, bi\u1ec3n, l\u1eb7n bi\u1ec3n",
+        "image": "image/note003.jpg"
+    },
+    {
+        "id": "note004",
+        "title": "Kh\u00e1m ph\u00e1 Paris",
+        "content": "Paris l\u00e0 th\u1ee7 \u0111\u00f4 c\u1ee7a Ph\u00e1p, n\u1ed5i ti\u1ebfng v\u1edbi ki\u1ebfn \u200b\u200btr\u00fac \u0111\u1ed9c \u0111\u00e1o, ngh\u1ec7 thu\u1eadt v\u00e0 v\u0103n h\u00f3a phong ph\u00fa. T\u00f4i \u0111\u00e3 th\u0103m th\u00e1p Eiffel, Louvre v\u00e0 th\u01b0\u1edfng th\u1ee9c \u1ea9m th\u1ef1c Ph\u00e1p tuy\u1ec7t v\u1eddi.",
+        "date": "2024-04-02",
+        "place": "Paris, Ph\u00e1p",
+        "rating": 4.8,
+        "labels": "th\u00e0nh ph\u1ed1, ki\u1ebfn \u200b\u200btr\u00fac, ngh\u1ec7 thu\u1eadt",
+        "image": "image/note004.jpg"
+    },
+    {
+        "id": "note005",
+        "title": "Cu\u1ed9c phi\u00eau l\u01b0u \u1edf Cappadocia",
+        "content": "Cappadocia \u1edf Th\u1ed5 Nh\u0129 K\u1ef3 n\u1ed5i ti\u1ebfng v\u1edbi \u0111\u1ecba \u0111i\u1ec3m du l\u1ecbch \u0111\u1ed9c \u0111\u00e1o v\u00e0 phong c\u1ea3nh n\u00fai \u0111\u00e1 \u0111\u1ecf. T\u00f4i \u0111\u00e3 tham gia chuy\u1ebfn bay b\u1eb1ng khinh kh\u00ed c\u1ea7u v\u00e0 kh\u00e1m ph\u00e1 c\u00e1c hang \u0111\u1ed9ng v\u00e0 th\u1ea3o nguy\u00ean \u0111\u00e1.",
+        "date": "2024-06-20",
+        "place": "Cappadocia, Th\u1ed5 Nh\u0129 K\u1ef3",
+        "rating": 4.7,
+        "labels": "phi\u00eau l\u01b0u, \u0111\u1ecba \u0111i\u1ec3m du l\u1ecbch, khinh kh\u00ed c\u1ea7u",
+        "image": "image/note005.jpg"
+    },
+    {
+        "id": "note006",
+        "title": "Du l\u1ecbch Sydney",
+        "content": "Sydney l\u00e0 th\u00e0nh ph\u1ed1 l\u1edbn nh\u1ea5t c\u1ee7a Australia, v\u1edbi nhi\u1ec1u \u0111i\u1ec3m tham quan n\u1ed5i ti\u1ebfng nh\u01b0 C\u1ea7u Sydney Harbour, Sydney Opera House v\u00e0 B\u00e3i bi\u1ec3n Bondi. T\u00f4i \u0111\u00e3 tham gia m\u1ed9t cu\u1ed9c h\u00e0nh tr\u00ecnh tr\u00ean thuy\u1ec1n tham quan c\u1ea3nh \u0111\u1eb9p c\u1ee7a th\u00e0nh ph\u1ed1.",
+        "date": "2024-07-12",
+        "place": "Sydney, Australia",
+        "rating": 4.6,
+        "labels": "th\u00e0nh ph\u1ed1, \u0111i\u1ec3m tham quan, b\u00e3i bi\u1ec3n",
+        "image": "image/note006.jpg"
+    },
+    {
+        "id": "note007",
+        "title": "Th\u00e1m hi\u1ec3m Amazon",
+        "content": "Amazon l\u00e0 m\u1ed9t trong nh\u1eefng khu r\u1eebng nhi\u1ec7t \u0111\u1edbi l\u1edbn nh\u1ea5t v\u00e0 \u0111a d\u1ea1ng nh\u1ea5t tr\u00ean th\u1ebf gi\u1edbi. T\u00f4i \u0111\u00e3 tham gia m\u1ed9t chuy\u1ebfn th\u00e1m hi\u1ec3m qua c\u00e1c con s\u00f4ng, kh\u00e1m ph\u00e1 \u0111\u1ed9ng, v\u00e0 quan s\u00e1t c\u00e1c lo\u00e0i \u0111\u1ed9ng v\u1eadt hoang d\u00e3.",
+        "date": "2024-08-05",
+        "place": "Amazon, Nam M\u1ef9",
+        "rating": 4.9,
+        "labels": "th\u00e1m hi\u1ec3m, r\u1eebng nhi\u1ec7t \u0111\u1edbi, \u0111\u1ed9ng v\u1eadt hoang d\u00e3",
+        "image": "image/note007.jpg"
+    },
+    {
+        "id": "note008",
+        "title": "Kh\u00e1m ph\u00e1 Istanbul",
+        "content": "Istanbul, Th\u1ed5 Nh\u0129 K\u1ef3, k\u1ebft h\u1ee3p gi\u1eefa v\u0103n h\u00f3a \u0110\u00f4ng v\u00e0 T\u00e2y, v\u1edbi ki\u1ebfn \u200b\u200btr\u00fac \u0111\u1ed9c \u0111\u00e1o v\u00e0 di s\u1ea3n l\u1ecbch s\u1eed. T\u00f4i \u0111\u00e3 th\u0103m Hagia Sophia, Cung \u0111i\u1ec7n Topkapi v\u00e0 th\u01b0\u1edfng th\u1ee9c \u1ea9m th\u1ef1c \u0111\u1ecba ph\u01b0\u01a1ng.",
+        "date": "2024-09-18",
+        "place": "Istanbul, Th\u1ed5 Nh\u0129 K\u1ef3",
+        "rating": 4.8,
+        "labels": "th\u00e0nh ph\u1ed1, ki\u1ebfn \u200b\u200btr\u00fac, di s\u1ea3n l\u1ecbch s\u1eed",
+        "image": "image/note008.jpg"
+    },
+    {
+        "id": "note009",
+        "title": "Ngh\u1ec9 d\u01b0\u1ee1ng t\u1ea1i Hawaii",
+        "content": "Hawaii l\u00e0 m\u1ed9t qu\u1ea7n \u0111\u1ea3o tuy\u1ec7t \u0111\u1eb9p thu\u1ed9c Hoa K\u1ef3, v\u1edbi b\u00e3i bi\u1ec3n \u0111\u1eb9p, \u0111\u1ed3ng c\u1ecf xanh m\u01b0\u1edbt v\u00e0 n\u00fai l\u1eeda. T\u00f4i \u0111\u00e3 tham gia l\u01b0\u1edbt s\u00f3ng tr\u00ean bi\u1ec3n v\u00e0 kh\u00e1m ph\u00e1 c\u1ea3nh \u0111\u1eb9p c\u1ee7a \u0110\u1ea1i T\u00e2y D\u01b0\u01a1ng.",
+        "date": "2024-10-30",
+        "place": "Hawaii, Hoa K\u1ef3",
+        "rating": 4.7,
+        "labels": "ngh\u1ec9 d\u01b0\u1ee1ng, bi\u1ec3n, n\u00fai l\u1eeda",
+        "image": "image/note009.jpg"
+    },
+    {
+        "id": "note010",
+        "title": "Th\u00e1m hi\u1ec3m Petra",
+        "content": "Petra l\u00e0 m\u1ed9t th\u00e0nh ph\u1ed1 c\u1ed5 n\u1eb1m \u1edf Jordan, n\u1ed5i ti\u1ebfng v\u1edbi ki\u1ebfn \u200b\u200btr\u00fac \u0111\u00e1 \u0111\u1ecf \u0111\u1ed9c \u0111\u00e1o. T\u00f4i \u0111\u00e3 d\u1ea1o ch\u01a1i qua c\u00e1c con \u0111\u01b0\u1eddng h\u1eb9p v\u00e0 kh\u00e1m ph\u00e1 c\u00e1c ng\u00f4i \u0111\u1ec1n, nh\u00e0 th\u1edd v\u00e0 hang \u0111\u1ed9ng t\u1ea1i \u0111\u00e2y.",
+        "date": "2024-11-14",
+        "place": "Petra, Jordan",
+        "rating": 4.6,
+        "labels": "th\u00e0nh ph\u1ed1 c\u1ed5, ki\u1ebfn \u200b\u200btr\u00fac, hang \u0111\u1ed9ng",
+        "image": "image/note010.jpg"
+    }
+]
